@@ -49,7 +49,7 @@ function Banner() {
         </h1>
       </div>
 
-      <div className="banner__fadeButton" />
+      <div className="banner__fadeBottom" />
     </header>
   );
 }
